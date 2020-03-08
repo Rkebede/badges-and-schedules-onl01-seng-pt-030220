@@ -1,4 +1,4 @@
-name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+#name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 
 
@@ -16,8 +16,7 @@ def batch_badge_creator(attendees)
   end
   badges
 end
-
-
+                         #
 def assign_rooms(attendees)
   room_assignments = [1,2,3,4,5,6,7]
   rooms = []
